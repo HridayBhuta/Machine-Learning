@@ -1,0 +1,8 @@
+# Ignore all .keras files
+*.keras
+
+# Ignore all .csv files
+*.csv
+
+# Ignore the Papers folder
+Papers/
