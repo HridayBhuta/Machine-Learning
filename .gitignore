@@ -4,5 +4,6 @@
 # Ignore all .csv files
 *.csv
 
-# Ignore the Papers folder
+# Ignore the Private folders
+Adversarial Nets/
 Papers/
