@@ -7,3 +7,6 @@
 # Ignore the Private folders
 Adversarial Nets/
 Papers/
+
+# IDE Settings
+.vscode/
